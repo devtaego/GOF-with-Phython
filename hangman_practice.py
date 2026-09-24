@@ -1,0 +1,3 @@
+words = {
+        [ "mode" : easy, "words"]
+}
